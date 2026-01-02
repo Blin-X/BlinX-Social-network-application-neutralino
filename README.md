@@ -1,15 +1,17 @@
-# neutralinojs-minimal
+# BlinX Desktop Application - Build Guide
 
-The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/getting-started/using-frontend-libraries).
+## Overview
+Desktop wrapper for https://blin-x.space/app website built with NeutralinoJS.
 
-## Contributors
+## Quick Build Guide
 
-[![Contributors](https://contrib.rocks/image?repo=neutralinojs/neutralinojs-minimal)](https://github.com/neutralinojs/neutralinojs-minimal/graphs/contributors)
+### Option 1: Pre-built version (30 seconds)
+1. Download the latest release: [BlinX-App.zip](https://github.com/Blin-X/BlinX-Social-network-application-neutralino/releases/tag/blinx)
+2. Extract to any folder
+3. Run `blinx-app.exe`
+4. Done!
 
-## License
+### Option 2: Build from source (2 minutes)
 
-[MIT](LICENSE)
-
-## Icon credits
-
-- `trayIcon.png` - Made by [Freepik](https://www.freepik.com) and downloaded from [Flaticon](https://www.flaticon.com)
+#### 1. Download NeutralinoJS:
+Download from GitHub (need neutralino-win_x64.exe):
